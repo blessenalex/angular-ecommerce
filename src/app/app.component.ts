@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-ecommerce';
+  divTitle = $localize`:This is the title of the main div:main-div`;
 }
